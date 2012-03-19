@@ -1,3 +1,6 @@
+/*
+ * SIPV: sip audio video call test.
+ */
 package com.gg;
 
 import android.app.Activity;
